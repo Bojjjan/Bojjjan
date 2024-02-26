@@ -2,13 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bojjan!;" />
 </h1>
 
-<div style="display: inline-block; margin-right: 20;">
-    <h2 style="text-align: left;">🖥️ Languages 🖥️</h2>
+<h2 align="center">🖥️ Languages 🖥️</h2>
+<br/>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=java,postgres" />
 </div>
 
-<div style="display: inline-block;">
-    <h2 style="text-align: right;">⚒️ FrameWorks 💿</h2>
+<h2 align="Center">⚒️ FrameWorks 💿</h2>
+<br/>
+<div align="Center">
     <img src="https://skillicons.dev/icons?i=spring" />
 </div>
 
