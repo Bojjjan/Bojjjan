@@ -14,7 +14,10 @@
 <div align="Center">
     <img src="https://skillicons.dev/icons?i=spring" />
 </div>
-
+<h2 align="Center">O📱 Other 🍝</h2>
+<div align="Center">
+    <img src="https://skillicons.dev/icons?i=idea,vscode" />
+</div>
 
 <!--
 **Bojjjan/Bojjjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
