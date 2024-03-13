@@ -14,7 +14,7 @@
 <div align="Center">
     <img src="https://skillicons.dev/icons?i=spring" />
 </div>
-<h2 align="Center">O📱 Other 🍝</h2>
+<h2 align="Center">📱 Other 🍝</h2>
 <div align="Center">
     <img src="https://skillicons.dev/icons?i=idea,vscode" />
 </div>
